@@ -8,11 +8,7 @@ body{
   font-weight: 800;
 }
 
-.para.small-para {
-  font-size: 14px;
-}
-
-p.para {
+.para {
   font-size: 22px;
 }
 
@@ -28,7 +24,7 @@ p.para {
   font-size: 20px;
 }
 
-.text.child {
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
