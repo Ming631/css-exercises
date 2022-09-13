@@ -17,7 +17,7 @@ p.para {
 }
 
 .confirm {
-  background: green;
+  background-color: green;
   color: white;
   font-weight: bold;
 } 
