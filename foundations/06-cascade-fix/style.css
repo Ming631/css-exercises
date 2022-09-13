@@ -13,7 +13,7 @@ body{
 }
 
 p.para {
-  font-size: 50px;
+  font-size: 25px;
 }
 
 #confirm-button {
@@ -27,6 +27,9 @@ p.para {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
+.text {
+  font-weight: 50;
+}
 
 .text .child {
   color: rgb(0, 0, 0);
@@ -34,8 +37,4 @@ p.para {
   font-size: 14px;
 }
 
-div.text {
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
-}
+
