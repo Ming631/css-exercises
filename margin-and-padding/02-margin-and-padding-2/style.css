@@ -31,8 +31,8 @@ body {
   background: #e3f4ff;
   margin: 8px;
   padding: 8px;
-  align-content: center;
-  display: inline-flex;
+  align-items: center;
+  display: flex;
   flex-wrap: wrap;
   flex-direction: column;
 }
