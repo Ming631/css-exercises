@@ -32,14 +32,12 @@ body {
   margin: 8px;
   padding: 8px;
   align-content: center;
-  display: flex;
-  flex-direction: column;
 }
 
 button {
   display: flex;
   flex-direction: column;
   background: white;
-  align-content: center;
+  align-items: center;
   border: 1px solid #eee;
 }
