@@ -32,6 +32,7 @@ body {
   margin: 8px;
   padding: 8px;
   align-content: center;
+  display: flex;
 }
 
 button {
