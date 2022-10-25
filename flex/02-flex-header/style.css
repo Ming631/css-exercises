@@ -14,7 +14,10 @@
   justify-content: center;
   align-self: center;
 }
-
+.header .left-links{
+   align-self: center;
+   justify-content: space-around;
+}
 ul {
  
   list-style-type: none;
