@@ -3,7 +3,7 @@
   background: papayawhip;
   display: flex;
   flex: 1;
-  flex-direction: row;
+  flex-flow: row-wrap;
 }
 
 .logo {
