@@ -30,8 +30,6 @@ img {
   margin-bottom: 32px;
 }
 
-.barberry, .chili, .pepper, .safron {
-  display: flex;
-  gap: 52px;
-  width: 200px;
+.barberry {
+  display:flex;
 }
