@@ -30,6 +30,6 @@ img {
   margin-bottom: 32px;
 }
 
-.barberry {
+.barberry, .chili, .pepper, .saffron {
   display:flex;
 }
