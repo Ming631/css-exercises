@@ -39,8 +39,6 @@ img {
   display:flex;
   width: 200px;
   flex-wrap: wrap;
-}
-
-img {
   align-self: center;
 }
+
