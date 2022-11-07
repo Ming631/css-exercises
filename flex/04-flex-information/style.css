@@ -34,7 +34,7 @@ img {
   gap: 52px;
   text-align:center;
   justify-content: center;
-  align-content: center;
+  flex-wrap: wrap;
 }
 .barberry, .chili, .pepper, .saffron {
   display:flex;
