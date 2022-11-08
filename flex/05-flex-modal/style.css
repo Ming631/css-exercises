@@ -69,7 +69,7 @@ button.cancel {
   display: flex;
   flex-wrap: wrap;
   flex: auto;
-  justify-content: space-evenly;
+  gap: 16px;
 }
 
 .modal {
