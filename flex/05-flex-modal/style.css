@@ -65,23 +65,26 @@ button.cancel {
   color: royalblue;
 }
 
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  flex: auto;
-  gap: 10px;
-  align-items: center;
-}
-
 .modal {
+  display: flex;
+  gap: 16px;
   padding: 16px;
 }
 
-.header {
-  font-size: larger;
-  font-weight: bold;
+.icon {
+  /* this keeps the icon from getting smashed by the text */
+  flex-shrink: 0;
 }
 
-.header, .text, button {
-align-content: center;
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.text {
+  margin-bottom: 16px;
 }
