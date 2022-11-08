@@ -76,3 +76,8 @@ button.cancel {
 .modal {
   padding: 32px;
 }
+
+.header {
+  font-size: larger;
+  font-weight: bold;
+}
