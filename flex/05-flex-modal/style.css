@@ -70,8 +70,7 @@ button.cancel {
   flex-wrap: wrap;
   flex: auto;
   gap: 10px;
-  align-items: center;
-  text-align: center;
+  align-content: center;
 }
 
 .modal {
