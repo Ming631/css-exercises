@@ -70,7 +70,7 @@ button.cancel {
   flex-wrap: wrap;
   flex: auto;
   gap: 10px;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .modal {
@@ -81,3 +81,4 @@ button.cancel {
   font-size: larger;
   font-weight: bold;
 }
+
