@@ -69,5 +69,9 @@ button.cancel {
   display: flex;
   flex-wrap: wrap;
   flex: auto;
-  justify-content: space-around;
+  justify-content: space-evenly;
+}
+
+.modal {
+  padding: 32px;
 }
