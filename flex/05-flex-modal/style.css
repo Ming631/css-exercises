@@ -83,5 +83,5 @@ button.cancel {
 }
 
 .header, .text, button {
-align-items: center;
+align-content: center;
 }
