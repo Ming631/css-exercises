@@ -48,4 +48,5 @@ a:link {
 .left-links , .right-links {
  display: flex;
  justify-content: space-evenly;
+ gap: 18px;
  }
