@@ -30,7 +30,6 @@ input {
 position: fixed;
 display: flex;
 padding: 16px;
-flex-flow: wrap column;
 }
 
 ul {
