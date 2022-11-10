@@ -43,3 +43,7 @@ a:link {
 .footer {
   flex-direction: column;
 }
+
+.left-links {
+ display: flex;
+}
