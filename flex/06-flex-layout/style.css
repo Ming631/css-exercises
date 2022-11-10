@@ -39,3 +39,7 @@ list-style-type: none;
 a:link {
   text-decoration: none;
 }
+
+.footer {
+  flex-direction: column;
+}
