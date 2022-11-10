@@ -28,4 +28,5 @@ input {
 
 .header , .footer {
 position: fixed;
+display: flex;
 }
