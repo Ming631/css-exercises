@@ -41,6 +41,7 @@ a:link {
 }
 
 .footer {
+  display: flex;
   flex-direction: column;
 }
 
