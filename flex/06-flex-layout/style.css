@@ -47,5 +47,5 @@ a:link {
 
 .left-links , .right-links {
  display: flex;
- justify-content: space-between;
-}
+ justify-content: space-around;
+ }
