@@ -30,8 +30,7 @@ input {
 position: fixed;
 display: flex;
 padding: 16px;
-align-content: space-around;
-justify-content: space-around;
+gap: 16px;
 }
 
 ul {
