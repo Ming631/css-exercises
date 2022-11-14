@@ -30,7 +30,6 @@ input {
 position: fixed;
 display: flex;
 padding: 16px;
-gap: 16px;
 }
 
 ul {
@@ -48,4 +47,5 @@ a:link {
 
 .left-links , .right-links {
  display: flex;
+ gap: 16px;
 }
