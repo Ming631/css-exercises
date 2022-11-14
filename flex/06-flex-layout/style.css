@@ -53,3 +53,7 @@ a:link {
 .left-links {
   align-self: flex-start;
 }
+
+.right-links {
+  align-self: flex-end;
+}
