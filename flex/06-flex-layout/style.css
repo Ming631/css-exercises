@@ -60,5 +60,5 @@ a:link {
 
 .content {
   display: flex;
-  align-content: center;
+  align-self: center;
 }
