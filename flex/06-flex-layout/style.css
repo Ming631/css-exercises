@@ -54,5 +54,5 @@ a:link {
 .content {
   display: flex;
   margin: 50px;
-  justify-content: center;
+  justify-content: space-around;
 }
