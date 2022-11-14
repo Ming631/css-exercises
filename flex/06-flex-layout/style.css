@@ -50,13 +50,6 @@ a:link {
  gap: 16px;
 }
 
-.left-links {
-  align-self: flex-start;
-}
-
-.right-links {
-  align-self: flex-end;
-}
 
 .content {
   display: flex;
