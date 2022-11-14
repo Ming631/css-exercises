@@ -49,3 +49,7 @@ a:link {
  display: flex;
  gap: 16px;
 }
+
+.left-links {
+  align-self: flex-start;
+}
