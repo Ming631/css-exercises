@@ -57,3 +57,8 @@ a:link {
 .right-links {
   align-self: flex-end;
 }
+
+.content {
+  display: flex;
+  align-content: center;
+}
