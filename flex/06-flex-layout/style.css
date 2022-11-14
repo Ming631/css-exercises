@@ -59,7 +59,7 @@ a:link {
 }
 
 .content {
-  display: block;
+  display: flex;
   margin: auto;
   width: 50%;
 }
