@@ -35,3 +35,9 @@ body {
 .header, .footer {
   display: flex;
 }
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 900;
+}
