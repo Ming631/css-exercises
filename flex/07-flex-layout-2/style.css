@@ -53,7 +53,6 @@ body {
 
 .sidebar, .container {
   display: flex;
-  flex-direction: column;
 }
 
 .sidebar {
