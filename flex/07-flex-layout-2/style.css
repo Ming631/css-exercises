@@ -50,3 +50,7 @@ body {
   align-content: center;
   justify-content: center;
 }
+
+.sidebar, .container {
+  display: flex;
+}
