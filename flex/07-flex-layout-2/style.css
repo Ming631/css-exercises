@@ -53,9 +53,10 @@ body {
 
 .sidebar, .container {
   display: flex;
- 
+  flex-direction: column;
 }
 
 .sidebar {
   width: 300px;
+  padding: 16px;
 }
