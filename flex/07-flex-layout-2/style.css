@@ -53,13 +53,9 @@ body {
 
 .sidebar, .container {
   display: flex;
+ 
 }
 
 .sidebar {
   width: 300px;
-  flex: 1 0 auto;
-}
-
-.container {
-  flex: 1;
 }
