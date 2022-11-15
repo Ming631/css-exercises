@@ -65,4 +65,5 @@ body {
 .container {
   padding: 32px;
   flex-wrap: wrap;
+  flex-direction: column;
 }
