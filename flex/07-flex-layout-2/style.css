@@ -30,4 +30,5 @@ body {
 body {
   display: flex;
   flex-flow: column wrap;
+  flex: 1;
 }
